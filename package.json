@@ -1,0 +1,21 @@
+{
+  "name": "ayogaut",
+  "version": "1.0.0",
+  "description": "Ini Bot AyoGAUT",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "MrVinny",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "economy": "^1.1.0",
+    "eris": "^0.15.1",
+    "mongodb": "^3.6.9",
+    "quick-db": "^1.0.5",
+    "quick.db": "^7.1.3",
+    "quick.eco": "^6.0.0",
+    "quickdb": "^1.0.5"
+  }
+}
